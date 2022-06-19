@@ -1,0 +1,95 @@
+*{
+	margin:0;
+	padding:0;
+}
+.block{
+width:360px; 
+height:550px;
+border: 1px ridge white;
+}
+.shadow{
+	border:1px solid #e5e5e5;
+	box-shadow: 1px 2px 5px #e5e5e5;
+	height:409px;
+	width:299px;
+	margin-top: -1px;
+}
+.tittle{
+	padding:20px 0px 0px 0px;
+	width:175px; 
+	height:45px;
+	border: 1px solid white;
+	margin:25px 0px 0px;
+	background: #7bb734 url(fotkabig.png) calc(90%) no-repeat;
+	color: #ffffff;
+}
+.text1{
+	width:299px;
+	height:170;
+	border-top: 3px solid #7bb734;
+	border-bottom: 1px ridge;
+	margin:-1px 0px 10px 0px;
+}
+.name{
+font-size: 18px;
+font-weight: bold;
+font-family: "calibri";
+margin:0px 0px 0px 5px;
+}
+.name span{
+	padding-left: 30px;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: "calibri";
+}
+.house{
+	width: 175px;
+	font-size: 14px;
+	background: #7bb734;
+	color:white;
+	font-family: "calibri";
+	font-style: "regular";
+	margin:0px 0px 0px 5px;
+}
+.rewiev{
+	font-size: 16px;
+	font-family: "calibri";
+	font-style: "regular";
+	margin:0px 0px 0px 5px;
+}
+.text2{
+	width:290px;
+	height:221;
+	border: 1px solid white;
+	margin-left:5px;
+}
+.name1{
+font-size: 18px;
+font-weight: bold;
+font-family: "calibri";
+}
+.house1 a{
+	width: 250px;
+	font-size: 14px;
+	background: #7bb734;
+	color:white;
+	font-family: "calibri";
+	font-style: "regular";
+	text-decoration: none;
+}
+.house1 a:hover{
+background:orange;
+width: 250px;
+}
+.date{
+	padding-left: 0px;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: "calibri";
+}
+.rewiev1{
+	font-size: 16px;
+	font-family: "calibri";
+	font-style: "regular";
+	width: 280px;
+}
